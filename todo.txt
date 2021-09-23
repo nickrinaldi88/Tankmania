@@ -1,0 +1,6 @@
+-Create tank object and update parameters based on mouse click 
+
+
+- Create Game Loop
+    - Have item move based on click
+    - Follow this https://www.sitepoint.com/quick-tip-game-loop-in-javascript/ - Responding to user input
